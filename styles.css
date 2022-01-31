@@ -22,19 +22,16 @@ h2 {
 .container-fluid {
 	margin: 2% 7%;
 }
-#dog {
+#E.T.I{
 	width: 60%;
 	transform: rotate(25deg);
 	position: absolute;
 	padding: 0;
 }
-.dog-image {
+.E.T.I-image {
 	position: relative;
 }
 
-.download-btn {
-	margin: 5% 3% 5% 0;
-}
 
 /* NAVBAR */
 
@@ -57,7 +54,7 @@ h2 {
 
 /* FEATURES */
 
-#features {
+#Aboutus {
 	text-align: center;
 	padding: 10vw 0;
 	background: white;
@@ -65,23 +62,23 @@ h2 {
 	z-index: 1;
 }
 
-#features p {
+#Aboutus p {
 	color: #8f8f8f;
 	font-size: 1.2rem;
 	margin: 0 3vw;
 }
 
-#features h3 {
+#Aboutus h3 {
 	font-style: 'Montserrat', sans-serif;
 	font-weight: bold;
 }
 
-#features i {
+#Aboutus i {
 	color: #009e05;
 	font-size: 4rem;
 	margin-bottom: 1vw;
 }
-#features i:hover {
+#Aboutus i:hover {
 	color: #4ead00;
 }
 
