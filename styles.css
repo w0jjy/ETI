@@ -15,8 +15,9 @@ h2 {
 #title{
 	background: #000000;
 	color: white;
-	min-width: 650px;
+	min-width: 720px;
 	overflow: hidden;
+    position: center;
 }
 
 .container {
@@ -26,10 +27,10 @@ h2 {
 	width: 5%;
 	transform: rotate(25deg);
 	position: absolute;
-	padding: 0.5;
+	padding: 0;
 }
 .E.T.I-image {
-	position: center;
+	position: relative;
 }
 
 
