@@ -15,11 +15,11 @@ h2 {
 #title{
 	background: #000000;
 	color: white;
-	min-width: 720px;
+	min-width: 1500px;
 	overflow: hidden;
 }
 
-.container-fluid {
+.container {
 	margin: 2% 7%;
 }
 #E.T.I{
@@ -74,12 +74,12 @@ h2 {
 }
 
 #Aboutus i {
-	color: #009e05;
+	color: #000000;
 	font-size: 4rem;
 	margin-bottom: 1vw;
 }
 #Aboutus i:hover {
-	color: #4ead00;
+	color: #000000;
 }
 
 .features-group {
@@ -90,7 +90,7 @@ h2 {
 
 #Pictures {
 	text-align: center;
-	background: #009e05;
+	background:#000000;
 	padding-bottom: 3vw;
 }
 
