@@ -23,13 +23,13 @@ h2 {
 	margin: 2% 7%;
 }
 #E.T.I{
-	width: 15%;
+	width: 5%;
 	transform: rotate(25deg);
 	position: absolute;
 	padding: 0.5;
 }
 .E.T.I-image {
-	position: relative;
+	position: center;
 }
 
 
