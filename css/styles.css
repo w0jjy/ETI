@@ -24,13 +24,14 @@ h2 {
 	margin: 2% 7%;
 }
 #E.T.I{
-	width: 5%;
 	transform: rotate(25deg);
-	position: absolute;
 	padding: 0;
 }
-.E.T.I-image {
-	position: relative;
+.favicon img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
 
 
@@ -55,7 +56,7 @@ h2 {
 
 /* FEATURES */
 
-#Aboutus {
+#About {
 	text-align: center;
 	padding: 10vw 0;
 	background: white;
@@ -63,23 +64,23 @@ h2 {
 	z-index: 1;
 }
 
-#Aboutus p {
+#About p {
 	color: #8f8f8f;
 	font-size: 1.2rem;
 	margin: 0 3vw;
 }
 
-#Aboutus h3 {
+#About h3 {
 	font-style: 'Montserrat', sans-serif;
 	font-weight: bold;
 }
 
-#Aboutus i {
+#About i {
 	color: #000000;
 	font-size: 4rem;
 	margin-bottom: 1vw;
 }
-#Aboutus i:hover {
+#About i:hover {
 	color: #000000;
 }
 
